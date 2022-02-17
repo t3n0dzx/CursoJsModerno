@@ -1,0 +1,3 @@
+//funciones nativas
+//parseInt
+//parseFloat
